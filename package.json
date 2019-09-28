@@ -9,12 +9,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "node": "^10.16.1",
   "dependencies": {
-    "node": "^10.16.1"
     "body-parser": "^1.19.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
     "mongoose": "^5.7.1"
+  },
+  "engines": {
+    "node": "10.16.1"
   }
 }
